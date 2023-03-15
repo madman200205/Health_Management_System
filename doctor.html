@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!---Coding By CodingLab | www.codinglabweb.com--->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!--<title>Registration Form in HTML CSS</title>-->
+    <!---Custom CSS File--->
+    <link rel="stylesheet" href="patient.css" />
+  </head>
+  <body>
+    <section class="container">
+      <header>DOCTOR DETAILS</header>
+      <form action="doc" method="post" class="form">
+        <div class="input-box">
+          <label>Full Name</label>
+          <input type="text" name="name" placeholder="Enter full name" required />
+        </div>
+
+        <div class="input-box">
+          <label>Age</label>
+          <input type="text" name="age" placeholder="Enter your age" required />
+        </div>
+
+        <div class="column">
+          <div class="input-box">
+            <label>Phone Number</label>
+            <input type="text" name="phno" placeholder="Enter phone number" required />
+          </div>
+          <div class="input-box">
+            <label>Experience</label>
+            <input type="text" name="exp" placeholder="Enter your experience" required />
+          </div>
+        </div>
+
+        <div class="input-box address">
+
+          <input type="text" name="qualification" placeholder="Qualification" required />
+          <input type="text" name="specialist" placeholder="Specialist" required />
+          <div class="column">
+            <input type="text" name="intime" placeholder="IN TIME" required />
+            <input type="text" name="outtime" placeholder="OUT TIME" required />
+          </div>
+          <!-- <div class="column">
+            <input type="text" name="region" placeholder="Enter your region" required />
+            <input type="number" name="postal" placeholder="Enter postal code" required />
+          </div>
+        </div> -->
+        <button>Submit</button>
+      </form>
+    </section>
+     <button class="adding"><a href="fetch">ADD CRIME</a></button>
+  </body>
+</html>

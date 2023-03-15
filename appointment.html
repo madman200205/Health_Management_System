@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="patient.css" />
+</head>
+<body>
+
+<section class="container">
+      <header>APPOINTMENT</header>
+      <form action="appfetch" method="post"class="form">
+        <div class="input-box">
+          <label>Patient Name</label>
+          <input type="text" name="pname" placeholder="Enter patient name" required />
+        </div>
+
+        <div class="input-box">
+          <label>Doctor Name</label>
+          <input type="text" name="dname" placeholder="Enter doctor name" required />
+        </div>
+
+        <div class="column">
+          <div class="input-box">
+            <label>DATE</label>
+            <input type="number" name="date" placeholder="Date of appointment" required />
+          </div>
+          <div class="input-box">
+            <label>TIME</label>
+            <input type="text" name="time" placeholder="Time of appointment" required />
+          </div>
+        </div>
+
+        <button>Submit</button>
+      </form>
+    </section>
+    <button class="adding"><a href="afetch">DATABASE</a></button>
+  </body>
+</html>
