@@ -7,11 +7,7 @@ The Health Management System is a web-based application developed to manage heal
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Database](#database)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
