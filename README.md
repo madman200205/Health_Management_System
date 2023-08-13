@@ -34,3 +34,13 @@ The Health Management System provides a user-friendly interface for managing hea
 - JavaScript: Programming language for interactive and dynamic features.
 - MySQL: Relational database management system for data storage.
 - JSP: JavaServer Pages for dynamic content generation.
+
+
+
+![WhatsApp Image 2023-08-13 at 14 56 45](https://github.com/madman200205/Health-Management-System/assets/110775752/cece9703-54dc-4402-884e-b8116720e9b7)
+
+![WhatsApp Image 2023-08-13 at 14 56 46](https://github.com/madman200205/Health-Management-System/assets/110775752/367aef4d-1e0d-489d-a95b-9fa0659fa7b2)
+![WhatsApp Image 2023-08-13 at 14 56 48](https://github.com/madman200205/Health-Management-System/assets/110775752/c36266a4-079a-4aeb-b4b2-78df6ce12d11)
+
+
+
